@@ -1,1 +1,1 @@
-# ProgrSerwInternetowych
+# Programowanie Serwisów Internetowych
